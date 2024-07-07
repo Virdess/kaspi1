@@ -1,5 +1,7 @@
 {
   "name": "asdasd",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue-vite"
 }
